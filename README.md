@@ -1,0 +1,2 @@
+# server-aternos
+aurooo
